@@ -49,4 +49,22 @@ In software construction, focus is put on:
 
 #### Sylabus    
 
+1. Introduction   
+2. Control and Data flow: tructures
+3. Control and Data flow: Models 
+4. Data abstraction: Specifying and Using
+5. Data abstraction: Testing and Implemantation
+6. Types, Dispatch and Polymophism   
+7. Final project  
+
+#### Setup
+- JDK
+- Intellij
+- Git and Github
+
+> Learn by Practicing
+> Be consistent
+
+### Introduction to Software Construction     
+
 
