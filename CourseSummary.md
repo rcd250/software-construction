@@ -62,9 +62,44 @@ In software construction, focus is put on:
 - Intellij
 - Git and Github
 
-> Learn by Practicing
-> Be consistent
+> Learn by Practicing   
+> Be consistent    
+
+#### Module activities
+
+- Overview/ learning goals    
+- Videos   
+- Lecture qns   
+- Long form coding problem   
+- Quiz    
+- Practice problems   
+- Discussion topic    
 
 ### Introduction to Software Construction     
+
+In this module we explore a java program without knowing any java syntax. This teaches us how to make sense of unfamiliar code since not all code we use 
+is written by us and it also prepares us for circustances where you are in a new job and you are required to get upto speed with the company code.     
+
+#### Key skills   
+
+- Strategies to understand project structure
+- Identify relationships between packages and classes
+
+#### Things to learn   
+
+- How to explore the behavior and structure of a system    
+- Draw relationship diagrams between packages, between classes in a java system
+- Make changes to the system to evaluate effect (breaking of some lines)     
+
+#### Strategies to walk upto Unfamiliar code    
+
+- Analyze files and folders   
+- Run the program    
+- Relate result to code   
+- Identify package relationships and draw diagrams    
+- Identify class relationships and draw diagrams     
+
+### Control and Data flow: Structures  
+
 
 
