@@ -99,7 +99,37 @@ is written by us and it also prepares us for circustances where you are in a new
 - Identify package relationships and draw diagrams    
 - Identify class relationships and draw diagrams     
 
-### Control and Data flow: Structures  
+### Control and Data flow: Structures   
+
+In this module, we are exposed to visual representations of code execution and techniques of reading existing code in orderto use it as a foundation
+to write new code. This is a good skill for a programmer given that large programs will rely on libraries and frameworks.   
+
+#### Things to learn     
+
+##### Java Concepts    
+- Classes and packages   
+- methods   
+- conditionals  
+- Loops   
+- How data flows in a program   
+- How parameters are passed    
+- How values are returned     
+- How objects are created (constructors)     
+
+##### Control flow models   
+
+- Flow charts for methods, conditionals and loops    
+- Call graphs for function calls inside functions   
+
+##### Debugging   
+
+Key strategy in debugging is forming an hypothesis to guide the search for the bug. Several hypothesis' are created and validated.
+Areas to look include;    
+> Setting values and output    
+> Comparisons and variables   
+> Ranges and pointers (Exceptions eg null pointer and index out of bounds)    
+
+### Data Abstraction    
 
 
 
